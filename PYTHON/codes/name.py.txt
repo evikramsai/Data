@@ -1,0 +1,2 @@
+def names(name):
+	printf("the name is"+name)

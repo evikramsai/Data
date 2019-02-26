@@ -1,0 +1,2 @@
+def fname():
+	input(name)
